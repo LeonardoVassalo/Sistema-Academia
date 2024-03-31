@@ -1,0 +1,75 @@
+F:\tcc3\Programação\SistemaComercial\DAL\bin\Debug\DAL.dll
+F:\tcc3\Programação\SistemaComercial\DAL\bin\Debug\DAL.pdb
+F:\tcc3\Programação\SistemaComercial\DAL\bin\Debug\MODELO.dll
+F:\tcc3\Programação\SistemaComercial\DAL\bin\Debug\MODELO.pdb
+F:\tcc3\Programação\SistemaComercial\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\tcc3\Programação\SistemaComercial\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\tcc3\Programação\SistemaComercial\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\tcc3\Programação\SistemaComercial\DAL\obj\Debug\DAL.dll
+F:\tcc3\Programação\SistemaComercial\DAL\obj\Debug\DAL.pdb
+F:\tcc3\Programação\SistemaAcademia\DAL\bin\Debug\DAL.dll
+F:\tcc3\Programação\SistemaAcademia\DAL\bin\Debug\DAL.pdb
+F:\tcc3\Programação\SistemaAcademia\DAL\bin\Debug\MODELO.dll
+F:\tcc3\Programação\SistemaAcademia\DAL\bin\Debug\MODELO.pdb
+F:\tcc3\Programação\SistemaAcademia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\tcc3\Programação\SistemaAcademia\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\tcc3\Programação\SistemaAcademia\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\tcc3\Programação\SistemaAcademia\DAL\obj\Debug\DAL.dll
+F:\tcc3\Programação\SistemaAcademia\DAL\obj\Debug\DAL.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\DAL\obj\Debug\DAL.dll
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\DAL\obj\Debug\DAL.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\DAL\bin\Debug\DAL.dll
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\DAL\bin\Debug\DAL.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\DAL\bin\Debug\MODELO.dll
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\DAL\bin\Debug\MODELO.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\SistemaAcademia\DAL\bin\Debug\DAL.dll
+F:\SistemaAcademia\DAL\bin\Debug\DAL.pdb
+F:\SistemaAcademia\DAL\bin\Debug\MODELO.dll
+F:\SistemaAcademia\DAL\bin\Debug\MODELO.pdb
+F:\SistemaAcademia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\SistemaAcademia\DAL\obj\Debug\DAL.dll
+F:\SistemaAcademia\DAL\obj\Debug\DAL.pdb
+C:\Users\leona\Desktop\SistemaAcademia\DAL\bin\Debug\DAL.dll
+C:\Users\leona\Desktop\SistemaAcademia\DAL\bin\Debug\DAL.pdb
+C:\Users\leona\Desktop\SistemaAcademia\DAL\bin\Debug\MODELO.dll
+C:\Users\leona\Desktop\SistemaAcademia\DAL\bin\Debug\MODELO.pdb
+C:\Users\leona\Desktop\SistemaAcademia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\leona\Desktop\SistemaAcademia\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\SistemaAcademia\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\leona\Desktop\SistemaAcademia\DAL\obj\Debug\DAL.dll
+C:\Users\leona\Desktop\SistemaAcademia\DAL\obj\Debug\DAL.pdb
+J:\SistemaAcademia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+J:\SistemaAcademia\DAL\obj\Debug\DAL.dll
+J:\SistemaAcademia\DAL\obj\Debug\DAL.pdb
+J:\SistemaAcademia\DAL\bin\Debug\DAL.dll
+J:\SistemaAcademia\DAL\bin\Debug\DAL.pdb
+J:\SistemaAcademia\DAL\bin\Debug\MODELO.dll
+J:\SistemaAcademia\DAL\bin\Debug\MODELO.pdb
+I:\SistemaAcademia\DAL\bin\Debug\DAL.dll
+I:\SistemaAcademia\DAL\bin\Debug\DAL.pdb
+I:\SistemaAcademia\DAL\bin\Debug\MODELO.dll
+I:\SistemaAcademia\DAL\bin\Debug\MODELO.pdb
+I:\SistemaAcademia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+I:\SistemaAcademia\DAL\obj\Debug\DAL.dll
+I:\SistemaAcademia\DAL\obj\Debug\DAL.pdb
+G:\SistemaAcademia\DAL\bin\Debug\DAL.dll
+G:\SistemaAcademia\DAL\bin\Debug\DAL.pdb
+G:\SistemaAcademia\DAL\bin\Debug\MODELO.dll
+G:\SistemaAcademia\DAL\bin\Debug\MODELO.pdb
+G:\SistemaAcademia\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\SistemaAcademia\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\SistemaAcademia\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\SistemaAcademia\DAL\obj\Debug\DAL.dll
+G:\SistemaAcademia\DAL\obj\Debug\DAL.pdb
+F:\Estudo\SistemaAcademia\SistemaAcademia\DAL\bin\Debug\DAL.dll
+F:\Estudo\SistemaAcademia\SistemaAcademia\DAL\bin\Debug\DAL.pdb
+F:\Estudo\SistemaAcademia\SistemaAcademia\DAL\bin\Debug\MODELO.dll
+F:\Estudo\SistemaAcademia\SistemaAcademia\DAL\bin\Debug\MODELO.pdb
+F:\Estudo\SistemaAcademia\SistemaAcademia\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Estudo\SistemaAcademia\SistemaAcademia\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Estudo\SistemaAcademia\SistemaAcademia\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\Estudo\SistemaAcademia\SistemaAcademia\DAL\obj\Debug\DAL.dll
+F:\Estudo\SistemaAcademia\SistemaAcademia\DAL\obj\Debug\DAL.pdb

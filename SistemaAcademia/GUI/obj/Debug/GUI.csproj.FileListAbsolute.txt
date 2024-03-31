@@ -1,0 +1,63 @@
+F:\tcc3\Programação\SistemaComercial\GUI\bin\Debug\GUI.dll
+F:\tcc3\Programação\SistemaComercial\GUI\bin\Debug\GUI.pdb
+F:\tcc3\Programação\SistemaComercial\GUI\bin\Debug\BLL.dll
+F:\tcc3\Programação\SistemaComercial\GUI\bin\Debug\DAL.dll
+F:\tcc3\Programação\SistemaComercial\GUI\bin\Debug\MODELO.dll
+F:\tcc3\Programação\SistemaComercial\GUI\bin\Debug\BLL.pdb
+F:\tcc3\Programação\SistemaComercial\GUI\bin\Debug\DAL.pdb
+F:\tcc3\Programação\SistemaComercial\GUI\bin\Debug\MODELO.pdb
+F:\tcc3\Programação\SistemaComercial\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\tcc3\Programação\SistemaComercial\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\tcc3\Programação\SistemaComercial\GUI\obj\Debug\GUI.csproj.CopyComplete
+F:\tcc3\Programação\SistemaComercial\GUI\obj\Debug\GUI.dll
+F:\tcc3\Programação\SistemaComercial\GUI\obj\Debug\GUI.pdb
+F:\tcc3\Programação\SistemaAcademia\GUI\bin\Debug\GUI.dll
+F:\tcc3\Programação\SistemaAcademia\GUI\bin\Debug\GUI.pdb
+F:\tcc3\Programação\SistemaAcademia\GUI\bin\Debug\BLL.dll
+F:\tcc3\Programação\SistemaAcademia\GUI\bin\Debug\DAL.dll
+F:\tcc3\Programação\SistemaAcademia\GUI\bin\Debug\MODELO.dll
+F:\tcc3\Programação\SistemaAcademia\GUI\bin\Debug\BLL.pdb
+F:\tcc3\Programação\SistemaAcademia\GUI\bin\Debug\DAL.pdb
+F:\tcc3\Programação\SistemaAcademia\GUI\bin\Debug\MODELO.pdb
+F:\tcc3\Programação\SistemaAcademia\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\tcc3\Programação\SistemaAcademia\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\tcc3\Programação\SistemaAcademia\GUI\obj\Debug\GUI.csproj.CopyComplete
+F:\tcc3\Programação\SistemaAcademia\GUI\obj\Debug\GUI.dll
+F:\tcc3\Programação\SistemaAcademia\GUI\obj\Debug\GUI.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\GUI\bin\Debug\GUI.dll
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\GUI\bin\Debug\GUI.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\GUI\bin\Debug\BLL.dll
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\GUI\bin\Debug\DAL.dll
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\GUI\bin\Debug\MODELO.dll
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\GUI\bin\Debug\BLL.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\GUI\bin\Debug\DAL.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\GUI\bin\Debug\MODELO.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\GUI\obj\Debug\GUI.dll
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\GUI\obj\Debug\GUI.pdb
+F:\SistemaAcademia\GUI\bin\Debug\GUI.dll
+F:\SistemaAcademia\GUI\bin\Debug\GUI.pdb
+F:\SistemaAcademia\GUI\bin\Debug\BLL.dll
+F:\SistemaAcademia\GUI\bin\Debug\DAL.dll
+F:\SistemaAcademia\GUI\bin\Debug\MODELO.dll
+F:\SistemaAcademia\GUI\bin\Debug\BLL.pdb
+F:\SistemaAcademia\GUI\bin\Debug\DAL.pdb
+F:\SistemaAcademia\GUI\bin\Debug\MODELO.pdb
+F:\SistemaAcademia\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\SistemaAcademia\GUI\obj\Debug\GUI.dll
+F:\SistemaAcademia\GUI\obj\Debug\GUI.pdb
+C:\Users\leona\Desktop\SistemaAcademia\GUI\bin\Debug\GUI.dll
+C:\Users\leona\Desktop\SistemaAcademia\GUI\bin\Debug\GUI.pdb
+C:\Users\leona\Desktop\SistemaAcademia\GUI\bin\Debug\BLL.dll
+C:\Users\leona\Desktop\SistemaAcademia\GUI\bin\Debug\DAL.dll
+C:\Users\leona\Desktop\SistemaAcademia\GUI\bin\Debug\MODELO.dll
+C:\Users\leona\Desktop\SistemaAcademia\GUI\bin\Debug\BLL.pdb
+C:\Users\leona\Desktop\SistemaAcademia\GUI\bin\Debug\DAL.pdb
+C:\Users\leona\Desktop\SistemaAcademia\GUI\bin\Debug\MODELO.pdb
+C:\Users\leona\Desktop\SistemaAcademia\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\leona\Desktop\SistemaAcademia\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\SistemaAcademia\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\leona\Desktop\SistemaAcademia\GUI\obj\Debug\GUI.dll
+C:\Users\leona\Desktop\SistemaAcademia\GUI\obj\Debug\GUI.pdb

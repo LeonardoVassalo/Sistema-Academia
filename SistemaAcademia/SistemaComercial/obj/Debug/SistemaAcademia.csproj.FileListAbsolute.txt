@@ -1,0 +1,267 @@
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\bin\Debug\SistemaComercial.exe.config
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\bin\Debug\SistemaComercial.exe
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\bin\Debug\SistemaComercial.pdb
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaAcademia.csprojResolveAssemblyReference.cache
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaBairro.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaMatricula.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaNome.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaPeriodo.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaRG.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.CadastroAluno.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.CadastroProfessor.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.CadastroUsuario.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaAluno.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalAno.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalDia.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalMes.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.Imprimir.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.ImprimirCarteira.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.Login.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaCodigo.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaNome.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaPeriodo.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.TelaMenu.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.Properties.Resources.resources
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaAcademia.csproj.GenerateResource.cache
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaAcademia.csproj.CoreCompileInputs.cache
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.exe
+F:\tcc3\Programação\SistemaComercial\SistemaComercial\obj\Debug\SistemaComercial.pdb
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaBairro.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaMatricula.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaNome.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaPeriodo.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaRG.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroAluno.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroProfessor.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroUsuario.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaAluno.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalAno.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalDia.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalMes.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.Imprimir.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ImprimirCarteira.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.Login.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaCodigo.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaNome.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaPeriodo.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.TelaMenu.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csproj.GenerateResource.cache
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csproj.CoreCompileInputs.cache
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\bin\Debug\DAL.dll
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\bin\Debug\MODELO.dll
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\bin\Debug\DAL.pdb
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\bin\Debug\MODELO.pdb
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csprojResolveAssemblyReference.cache
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csproj.CopyComplete
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.exe.config
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.exe
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.pdb
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.Properties.Resources.resources
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.exe
+F:\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csprojResolveAssemblyReference.cache
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaBairro.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaMatricula.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaNome.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaPeriodo.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaRG.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroAluno.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroProfessor.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroUsuario.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaAluno.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalAno.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalDia.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalMes.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.Imprimir.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ImprimirCarteira.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.Login.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaCodigo.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaNome.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaPeriodo.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.TelaMenu.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.Properties.Resources.resources
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csproj.GenerateResource.cache
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.exe
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.exe.config
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.exe
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\bin\Debug\DAL.dll
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\bin\Debug\MODELO.dll
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\bin\Debug\DAL.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\bin\Debug\MODELO.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csproj.CopyComplete
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\bin\Debug\BLL.dll
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\SistemaComercial\bin\Debug\BLL.pdb
+F:\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.exe.config
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.exe
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.pdb
+F:\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.exe
+F:\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.pdb
+F:\SistemaAcademia\SistemaComercial\bin\Debug\BLL.dll
+F:\SistemaAcademia\SistemaComercial\bin\Debug\DAL.dll
+F:\SistemaAcademia\SistemaComercial\bin\Debug\MODELO.dll
+F:\SistemaAcademia\SistemaComercial\bin\Debug\BLL.pdb
+F:\SistemaAcademia\SistemaComercial\bin\Debug\DAL.pdb
+F:\SistemaAcademia\SistemaComercial\bin\Debug\MODELO.pdb
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csprojResolveAssemblyReference.cache
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaBairro.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaMatricula.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaNome.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaPeriodo.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaRG.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroAluno.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroProfessor.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroUsuario.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaAluno.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalAno.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalDia.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalMes.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.Imprimir.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ImprimirCarteira.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.Login.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaCodigo.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaNome.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaPeriodo.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.TelaMenu.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.Properties.Resources.resources
+F:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csproj.GenerateResource.Cache
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.exe.config
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.exe
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.pdb
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\bin\Debug\BLL.dll
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\bin\Debug\DAL.dll
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\bin\Debug\MODELO.dll
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\bin\Debug\BLL.pdb
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\bin\Debug\DAL.pdb
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\bin\Debug\MODELO.pdb
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csprojResolveAssemblyReference.cache
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaBairro.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaMatricula.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaNome.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaPeriodo.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaRG.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroAluno.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroProfessor.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroUsuario.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaAluno.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalAno.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalDia.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalMes.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.Imprimir.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ImprimirCarteira.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.Login.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaCodigo.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaNome.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaPeriodo.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.TelaMenu.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.Properties.Resources.resources
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csproj.GenerateResource.cache
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csproj.CopyComplete
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.exe
+C:\Users\leona\Desktop\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.pdb
+I:\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.exe.config
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.exe
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.pdb
+J:\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.exe.config
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.exe
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.pdb
+J:\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.exe
+J:\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.pdb
+J:\SistemaAcademia\SistemaComercial\bin\Debug\BLL.dll
+J:\SistemaAcademia\SistemaComercial\bin\Debug\DAL.dll
+J:\SistemaAcademia\SistemaComercial\bin\Debug\MODELO.dll
+J:\SistemaAcademia\SistemaComercial\bin\Debug\BLL.pdb
+J:\SistemaAcademia\SistemaComercial\bin\Debug\DAL.pdb
+J:\SistemaAcademia\SistemaComercial\bin\Debug\MODELO.pdb
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csprojResolveAssemblyReference.cache
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaBairro.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaMatricula.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaNome.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaPeriodo.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaRG.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroAluno.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroProfessor.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroUsuario.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaAluno.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalAno.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalDia.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalMes.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.Imprimir.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ImprimirCarteira.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.Login.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaCodigo.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaNome.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaPeriodo.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.TelaMenu.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.Properties.Resources.resources
+J:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csproj.GenerateResource.Cache
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csprojResolveAssemblyReference.cache
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaBairro.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaMatricula.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaNome.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaPeriodo.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaRG.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroAluno.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroProfessor.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroUsuario.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaAluno.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalAno.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalDia.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalMes.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.Imprimir.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ImprimirCarteira.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.Login.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaCodigo.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaNome.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaPeriodo.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.TelaMenu.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.Properties.Resources.resources
+I:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csproj.GenerateResource.Cache
+I:\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.exe
+I:\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.pdb
+I:\SistemaAcademia\SistemaComercial\bin\Debug\BLL.dll
+I:\SistemaAcademia\SistemaComercial\bin\Debug\DAL.dll
+I:\SistemaAcademia\SistemaComercial\bin\Debug\MODELO.dll
+I:\SistemaAcademia\SistemaComercial\bin\Debug\BLL.pdb
+I:\SistemaAcademia\SistemaComercial\bin\Debug\DAL.pdb
+I:\SistemaAcademia\SistemaComercial\bin\Debug\MODELO.pdb
+G:\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.exe.config
+G:\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.exe
+G:\SistemaAcademia\SistemaComercial\bin\Debug\SistemaAcademia.pdb
+G:\SistemaAcademia\SistemaComercial\bin\Debug\BLL.dll
+G:\SistemaAcademia\SistemaComercial\bin\Debug\DAL.dll
+G:\SistemaAcademia\SistemaComercial\bin\Debug\MODELO.dll
+G:\SistemaAcademia\SistemaComercial\bin\Debug\BLL.pdb
+G:\SistemaAcademia\SistemaComercial\bin\Debug\DAL.pdb
+G:\SistemaAcademia\SistemaComercial\bin\Debug\MODELO.pdb
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csprojResolveAssemblyReference.cache
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaBairro.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaMatricula.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaNome.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaPeriodo.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.AlunoConsultaRG.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroAluno.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroProfessor.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.CadastroUsuario.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaAluno.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalAno.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalDia.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.FrequenciaTotalMes.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.Imprimir.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ImprimirCarteira.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.Login.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaCodigo.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaNome.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.ProfessorConsultaPeriodo.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaComercial.TelaMenu.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.Properties.Resources.resources
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csproj.GenerateResource.cache
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csproj.CoreCompileInputs.cache
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.csproj.CopyComplete
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.exe
+G:\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.pdb
+F:\Estudo\SistemaAcademia\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.exe
+F:\Estudo\SistemaAcademia\SistemaAcademia\SistemaComercial\obj\Debug\SistemaAcademia.pdb

@@ -1,0 +1,93 @@
+F:\tcc3\Programação\SistemaComercial\BLL\bin\Debug\BLL.dll
+F:\tcc3\Programação\SistemaComercial\BLL\bin\Debug\BLL.pdb
+F:\tcc3\Programação\SistemaComercial\BLL\bin\Debug\DAL.dll
+F:\tcc3\Programação\SistemaComercial\BLL\bin\Debug\MODELO.dll
+F:\tcc3\Programação\SistemaComercial\BLL\bin\Debug\DAL.pdb
+F:\tcc3\Programação\SistemaComercial\BLL\bin\Debug\MODELO.pdb
+F:\tcc3\Programação\SistemaComercial\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\tcc3\Programação\SistemaComercial\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\tcc3\Programação\SistemaComercial\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\tcc3\Programação\SistemaComercial\BLL\obj\Debug\BLL.dll
+F:\tcc3\Programação\SistemaComercial\BLL\obj\Debug\BLL.pdb
+F:\tcc3\Programação\SistemaAcademia\BLL\bin\Debug\BLL.dll
+F:\tcc3\Programação\SistemaAcademia\BLL\bin\Debug\BLL.pdb
+F:\tcc3\Programação\SistemaAcademia\BLL\bin\Debug\DAL.dll
+F:\tcc3\Programação\SistemaAcademia\BLL\bin\Debug\MODELO.dll
+F:\tcc3\Programação\SistemaAcademia\BLL\bin\Debug\DAL.pdb
+F:\tcc3\Programação\SistemaAcademia\BLL\bin\Debug\MODELO.pdb
+F:\tcc3\Programação\SistemaAcademia\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\tcc3\Programação\SistemaAcademia\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\tcc3\Programação\SistemaAcademia\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\tcc3\Programação\SistemaAcademia\BLL\obj\Debug\BLL.dll
+F:\tcc3\Programação\SistemaAcademia\BLL\obj\Debug\BLL.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\BLL\bin\Debug\BLL.dll
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\BLL\bin\Debug\BLL.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\BLL\bin\Debug\DAL.dll
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\BLL\bin\Debug\MODELO.dll
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\BLL\bin\Debug\DAL.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\BLL\bin\Debug\MODELO.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\BLL\obj\Debug\BLL.dll
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\BLL\obj\Debug\BLL.pdb
+F:\SistemaAcademia\BLL\bin\Debug\BLL.dll
+F:\SistemaAcademia\BLL\bin\Debug\BLL.pdb
+F:\SistemaAcademia\BLL\bin\Debug\DAL.dll
+F:\SistemaAcademia\BLL\bin\Debug\MODELO.dll
+F:\SistemaAcademia\BLL\bin\Debug\DAL.pdb
+F:\SistemaAcademia\BLL\bin\Debug\MODELO.pdb
+F:\SistemaAcademia\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\SistemaAcademia\BLL\obj\Debug\BLL.dll
+F:\SistemaAcademia\BLL\obj\Debug\BLL.pdb
+C:\Users\leona\Desktop\SistemaAcademia\BLL\bin\Debug\BLL.dll
+C:\Users\leona\Desktop\SistemaAcademia\BLL\bin\Debug\BLL.pdb
+C:\Users\leona\Desktop\SistemaAcademia\BLL\bin\Debug\DAL.dll
+C:\Users\leona\Desktop\SistemaAcademia\BLL\bin\Debug\MODELO.dll
+C:\Users\leona\Desktop\SistemaAcademia\BLL\bin\Debug\DAL.pdb
+C:\Users\leona\Desktop\SistemaAcademia\BLL\bin\Debug\MODELO.pdb
+C:\Users\leona\Desktop\SistemaAcademia\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\leona\Desktop\SistemaAcademia\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\SistemaAcademia\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\leona\Desktop\SistemaAcademia\BLL\obj\Debug\BLL.dll
+C:\Users\leona\Desktop\SistemaAcademia\BLL\obj\Debug\BLL.pdb
+J:\SistemaAcademia\BLL\bin\Debug\BLL.dll
+J:\SistemaAcademia\BLL\bin\Debug\BLL.pdb
+J:\SistemaAcademia\BLL\bin\Debug\DAL.dll
+J:\SistemaAcademia\BLL\bin\Debug\MODELO.dll
+J:\SistemaAcademia\BLL\bin\Debug\DAL.pdb
+J:\SistemaAcademia\BLL\bin\Debug\MODELO.pdb
+J:\SistemaAcademia\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+J:\SistemaAcademia\BLL\obj\Debug\BLL.dll
+J:\SistemaAcademia\BLL\obj\Debug\BLL.pdb
+I:\SistemaAcademia\BLL\bin\Debug\BLL.dll
+I:\SistemaAcademia\BLL\bin\Debug\BLL.pdb
+I:\SistemaAcademia\BLL\bin\Debug\DAL.dll
+I:\SistemaAcademia\BLL\bin\Debug\MODELO.dll
+I:\SistemaAcademia\BLL\bin\Debug\DAL.pdb
+I:\SistemaAcademia\BLL\bin\Debug\MODELO.pdb
+I:\SistemaAcademia\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+I:\SistemaAcademia\BLL\obj\Debug\BLL.dll
+I:\SistemaAcademia\BLL\obj\Debug\BLL.pdb
+G:\SistemaAcademia\BLL\bin\Debug\BLL.dll
+G:\SistemaAcademia\BLL\bin\Debug\BLL.pdb
+G:\SistemaAcademia\BLL\bin\Debug\DAL.dll
+G:\SistemaAcademia\BLL\bin\Debug\MODELO.dll
+G:\SistemaAcademia\BLL\bin\Debug\DAL.pdb
+G:\SistemaAcademia\BLL\bin\Debug\MODELO.pdb
+G:\SistemaAcademia\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\SistemaAcademia\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\SistemaAcademia\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\SistemaAcademia\BLL\obj\Debug\BLL.dll
+G:\SistemaAcademia\BLL\obj\Debug\BLL.pdb
+F:\Estudo\SistemaAcademia\SistemaAcademia\BLL\bin\Debug\BLL.dll
+F:\Estudo\SistemaAcademia\SistemaAcademia\BLL\bin\Debug\BLL.pdb
+F:\Estudo\SistemaAcademia\SistemaAcademia\BLL\bin\Debug\DAL.dll
+F:\Estudo\SistemaAcademia\SistemaAcademia\BLL\bin\Debug\MODELO.dll
+F:\Estudo\SistemaAcademia\SistemaAcademia\BLL\bin\Debug\DAL.pdb
+F:\Estudo\SistemaAcademia\SistemaAcademia\BLL\bin\Debug\MODELO.pdb
+F:\Estudo\SistemaAcademia\SistemaAcademia\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Estudo\SistemaAcademia\SistemaAcademia\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Estudo\SistemaAcademia\SistemaAcademia\BLL\obj\Debug\BLL.csproj.Up2Date
+F:\Estudo\SistemaAcademia\SistemaAcademia\BLL\obj\Debug\BLL.dll
+F:\Estudo\SistemaAcademia\SistemaAcademia\BLL\obj\Debug\BLL.pdb

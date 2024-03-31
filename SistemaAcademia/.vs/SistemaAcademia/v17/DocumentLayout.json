@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|f:\\estudo\\sistemaacademia\\sistemaacademia\\sistemacomercial\\cadastros\\cadastroprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|solutionrelative:sistemacomercial\\cadastros\\cadastroprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\sistemacomercial\\cadastros\\cadastroprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|solutionrelative:sistemacomercial\\cadastros\\cadastroprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\sistemacomercial\\consultas\\alunoconsultamatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|solutionrelative:sistemacomercial\\consultas\\alunoconsultamatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\sistemacomercial\\consultas\\alunoconsultamatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|solutionrelative:sistemacomercial\\consultas\\alunoconsultamatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\sistemacomercial\\telamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|solutionrelative:sistemacomercial\\telamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\sistemacomercial\\telamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|solutionrelative:sistemacomercial\\telamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\sistemacomercial\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|solutionrelative:sistemacomercial\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\sistemacomercial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|solutionrelative:sistemacomercial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB87A7D9-4FF9-4AFE-A8A1-EF383702E3D4}|DAL\\DAL.csproj|F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\dal\\dalfrequencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB87A7D9-4FF9-4AFE-A8A1-EF383702E3D4}|DAL\\DAL.csproj|solutionrelative:dal\\dalfrequencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C45D741-8814-4D58-8091-E692EEAE005E}|MODELO\\MODELO.csproj|F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\modelo\\modelofrequencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C45D741-8814-4D58-8091-E692EEAE005E}|MODELO\\MODELO.csproj|solutionrelative:modelo\\modelofrequencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C45D741-8814-4D58-8091-E692EEAE005E}|MODELO\\MODELO.csproj|F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\modelo\\modelomatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C45D741-8814-4D58-8091-E692EEAE005E}|MODELO\\MODELO.csproj|solutionrelative:modelo\\modelomatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\sistemacomercial\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|solutionrelative:sistemacomercial\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\sistemacomercial\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|solutionrelative:sistemacomercial\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\sistemacomercial\\cadastros\\cadastroaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D556D519-054F-478A-B7CC-3C8117CDAF3F}|SistemaComercial\\SistemaComercial.csproj|solutionrelative:sistemacomercial\\cadastros\\cadastroaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastroProfessor.cs [Design]",
+              "DocumentMoniker": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\CADASTROS\\CadastroProfessor.cs",
+              "RelativeDocumentMoniker": "SistemaComercial\\CADASTROS\\CadastroProfessor.cs",
+              "ToolTip": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\CADASTROS\\CadastroProfessor.cs [Design]",
+              "RelativeToolTip": "SistemaComercial\\CADASTROS\\CadastroProfessor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:59:09.464Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlunoConsultaMatricula.cs [Design]",
+              "DocumentMoniker": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\CONSULTAS\\AlunoConsultaMatricula.cs",
+              "RelativeDocumentMoniker": "SistemaComercial\\CONSULTAS\\AlunoConsultaMatricula.cs",
+              "ToolTip": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\CONSULTAS\\AlunoConsultaMatricula.cs [Design]",
+              "RelativeToolTip": "SistemaComercial\\CONSULTAS\\AlunoConsultaMatricula.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:44:36.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Splash.cs [Design]",
+              "DocumentMoniker": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\Splash.cs",
+              "RelativeDocumentMoniker": "SistemaComercial\\Splash.cs",
+              "ToolTip": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\Splash.cs [Design]",
+              "RelativeToolTip": "SistemaComercial\\Splash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:33:01.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DALFrequencia.cs",
+              "DocumentMoniker": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\DAL\\DALFrequencia.cs",
+              "RelativeDocumentMoniker": "DAL\\DALFrequencia.cs",
+              "ToolTip": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\DAL\\DALFrequencia.cs",
+              "RelativeToolTip": "DAL\\DALFrequencia.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAiwHMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:11:11.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastroProfessor.cs",
+              "DocumentMoniker": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\CADASTROS\\CadastroProfessor.cs",
+              "RelativeDocumentMoniker": "SistemaComercial\\CADASTROS\\CadastroProfessor.cs",
+              "ToolTip": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\CADASTROS\\CadastroProfessor.cs",
+              "RelativeToolTip": "SistemaComercial\\CADASTROS\\CadastroProfessor.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAqwMcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:32:25.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaComercial\\Program.cs",
+              "ToolTip": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\Program.cs",
+              "RelativeToolTip": "SistemaComercial\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:43:06.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs",
+              "DocumentMoniker": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\Login.cs",
+              "RelativeDocumentMoniker": "SistemaComercial\\Login.cs",
+              "ToolTip": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\Login.cs",
+              "RelativeToolTip": "SistemaComercial\\Login.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:25:25.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\Login.cs",
+              "RelativeDocumentMoniker": "SistemaComercial\\Login.cs",
+              "ToolTip": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\Login.cs [Design]",
+              "RelativeToolTip": "SistemaComercial\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:25:24.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TelaMenu.cs",
+              "DocumentMoniker": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\TelaMenu.cs",
+              "RelativeDocumentMoniker": "SistemaComercial\\TelaMenu.cs",
+              "ToolTip": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\TelaMenu.cs",
+              "RelativeToolTip": "SistemaComercial\\TelaMenu.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:24:56.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TelaMenu.cs [Design]",
+              "DocumentMoniker": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\TelaMenu.cs",
+              "RelativeDocumentMoniker": "SistemaComercial\\TelaMenu.cs",
+              "ToolTip": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\TelaMenu.cs [Design]",
+              "RelativeToolTip": "SistemaComercial\\TelaMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:24:53.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlunoConsultaMatricula.cs",
+              "DocumentMoniker": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\CONSULTAS\\AlunoConsultaMatricula.cs",
+              "RelativeDocumentMoniker": "SistemaComercial\\CONSULTAS\\AlunoConsultaMatricula.cs",
+              "ToolTip": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\CONSULTAS\\AlunoConsultaMatricula.cs",
+              "RelativeToolTip": "SistemaComercial\\CONSULTAS\\AlunoConsultaMatricula.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T16:44:58.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModeloFrequencia.cs",
+              "DocumentMoniker": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\MODELO\\ModeloFrequencia.cs",
+              "RelativeDocumentMoniker": "MODELO\\ModeloFrequencia.cs",
+              "ToolTip": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\MODELO\\ModeloFrequencia.cs",
+              "RelativeToolTip": "MODELO\\ModeloFrequencia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:17:50.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModeloMatricula.cs",
+              "DocumentMoniker": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\MODELO\\ModeloMatricula.cs",
+              "RelativeDocumentMoniker": "MODELO\\ModeloMatricula.cs",
+              "ToolTip": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\MODELO\\ModeloMatricula.cs",
+              "RelativeToolTip": "MODELO\\ModeloMatricula.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:18:04.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CadastroAluno.cs [Design]",
+              "DocumentMoniker": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\CADASTROS\\CadastroAluno.cs",
+              "RelativeDocumentMoniker": "SistemaComercial\\CADASTROS\\CadastroAluno.cs",
+              "ToolTip": "F:\\Estudo\\SistemaAcademia\\SistemaAcademia\\SistemaComercial\\CADASTROS\\CadastroAluno.cs [Design]",
+              "RelativeToolTip": "SistemaComercial\\CADASTROS\\CadastroAluno.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:24:24.142Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

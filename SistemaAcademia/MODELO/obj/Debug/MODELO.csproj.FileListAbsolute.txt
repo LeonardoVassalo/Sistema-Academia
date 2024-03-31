@@ -1,0 +1,50 @@
+F:\tcc3\Programação\SistemaComercial\MODELO\bin\Debug\MODELO.dll
+F:\tcc3\Programação\SistemaComercial\MODELO\bin\Debug\MODELO.pdb
+F:\tcc3\Programação\SistemaComercial\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+F:\tcc3\Programação\SistemaComercial\MODELO\obj\Debug\MODELO.dll
+F:\tcc3\Programação\SistemaComercial\MODELO\obj\Debug\MODELO.pdb
+F:\tcc3\Programação\SistemaComercial\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+F:\tcc3\Programação\SistemaAcademia\MODELO\bin\Debug\MODELO.dll
+F:\tcc3\Programação\SistemaAcademia\MODELO\bin\Debug\MODELO.pdb
+F:\tcc3\Programação\SistemaAcademia\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+F:\tcc3\Programação\SistemaAcademia\MODELO\obj\Debug\MODELO.dll
+F:\tcc3\Programação\SistemaAcademia\MODELO\obj\Debug\MODELO.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\MODELO\bin\Debug\MODELO.dll
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\MODELO\bin\Debug\MODELO.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\MODELO\obj\Debug\MODELO.dll
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\MODELO\obj\Debug\MODELO.pdb
+C:\Users\leona\Desktop\Backup Pen drive\tcc3\Programação\SistemaAcademia\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+F:\SistemaAcademia\MODELO\bin\Debug\MODELO.dll
+F:\SistemaAcademia\MODELO\bin\Debug\MODELO.pdb
+F:\SistemaAcademia\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+F:\SistemaAcademia\MODELO\obj\Debug\MODELO.dll
+F:\SistemaAcademia\MODELO\obj\Debug\MODELO.pdb
+C:\Users\leona\Desktop\SistemaAcademia\MODELO\bin\Debug\MODELO.dll
+C:\Users\leona\Desktop\SistemaAcademia\MODELO\bin\Debug\MODELO.pdb
+C:\Users\leona\Desktop\SistemaAcademia\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\leona\Desktop\SistemaAcademia\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\SistemaAcademia\MODELO\obj\Debug\MODELO.dll
+C:\Users\leona\Desktop\SistemaAcademia\MODELO\obj\Debug\MODELO.pdb
+J:\SistemaAcademia\MODELO\bin\Debug\MODELO.dll
+J:\SistemaAcademia\MODELO\bin\Debug\MODELO.pdb
+J:\SistemaAcademia\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+J:\SistemaAcademia\MODELO\obj\Debug\MODELO.dll
+J:\SistemaAcademia\MODELO\obj\Debug\MODELO.pdb
+I:\SistemaAcademia\MODELO\bin\Debug\MODELO.dll
+I:\SistemaAcademia\MODELO\bin\Debug\MODELO.pdb
+I:\SistemaAcademia\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+I:\SistemaAcademia\MODELO\obj\Debug\MODELO.dll
+I:\SistemaAcademia\MODELO\obj\Debug\MODELO.pdb
+G:\SistemaAcademia\MODELO\bin\Debug\MODELO.dll
+G:\SistemaAcademia\MODELO\bin\Debug\MODELO.pdb
+G:\SistemaAcademia\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+G:\SistemaAcademia\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+G:\SistemaAcademia\MODELO\obj\Debug\MODELO.dll
+G:\SistemaAcademia\MODELO\obj\Debug\MODELO.pdb
+F:\Estudo\SistemaAcademia\SistemaAcademia\MODELO\bin\Debug\MODELO.dll
+F:\Estudo\SistemaAcademia\SistemaAcademia\MODELO\bin\Debug\MODELO.pdb
+F:\Estudo\SistemaAcademia\SistemaAcademia\MODELO\obj\Debug\MODELO.csproj.AssemblyReference.cache
+F:\Estudo\SistemaAcademia\SistemaAcademia\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+F:\Estudo\SistemaAcademia\SistemaAcademia\MODELO\obj\Debug\MODELO.dll
+F:\Estudo\SistemaAcademia\SistemaAcademia\MODELO\obj\Debug\MODELO.pdb

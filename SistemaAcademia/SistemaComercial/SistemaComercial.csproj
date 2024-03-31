@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D556D519-054F-478A-B7CC-3C8117CDAF3F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SistemaComercial</RootNamespace>
+    <AssemblyName>SistemaComercial</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CADASTROS\CadastroPlano.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTROS\CadastroPlano.Designer.cs">
+      <DependentUpon>CadastroPlano.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONSULTAS\ConsultaPlanos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONSULTAS\ConsultaPlanos.Designer.cs">
+      <DependentUpon>ConsultaPlanos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONSULTAS\AlunoConsultaProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONSULTAS\AlunoConsultaProfessor.Designer.cs">
+      <DependentUpon>AlunoConsultaProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONSULTAS\AlunoConsultaMatricula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONSULTAS\AlunoConsultaMatricula.Designer.cs">
+      <DependentUpon>AlunoConsultaMatricula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONSULTAS\AlunoConsultaNome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONSULTAS\AlunoConsultaNome.Designer.cs">
+      <DependentUpon>AlunoConsultaNome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONSULTAS\AlunoConsultaPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONSULTAS\AlunoConsultaPeriodo.Designer.cs">
+      <DependentUpon>AlunoConsultaPeriodo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONSULTAS\AlunoConsultaRG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONSULTAS\AlunoConsultaRG.Designer.cs">
+      <DependentUpon>AlunoConsultaRG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTROS\CadastroAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTROS\CadastroAluno.Designer.cs">
+      <DependentUpon>CadastroAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTROS\CadastroProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTROS\CadastroProfessor.Designer.cs">
+      <DependentUpon>CadastroProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CADASTROS\CadastroUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CADASTROS\CadastroUsuario.Designer.cs">
+      <DependentUpon>CadastroUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrequenciaAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrequenciaAluno.Designer.cs">
+      <DependentUpon>FrequenciaAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrequenciaTotalAno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrequenciaTotalAno.Designer.cs">
+      <DependentUpon>FrequenciaTotalAno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrequenciaTotalDia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrequenciaTotalDia.Designer.cs">
+      <DependentUpon>FrequenciaTotalDia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrequenciaTotalMes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrequenciaTotalMes.Designer.cs">
+      <DependentUpon>FrequenciaTotalMes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Imprimir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Imprimir.Designer.cs">
+      <DependentUpon>Imprimir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImprimirCarteira.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImprimirCarteira.Designer.cs">
+      <DependentUpon>ImprimirCarteira.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONSULTAS\PesquisaUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONSULTAS\PesquisaUsuario.Designer.cs">
+      <DependentUpon>PesquisaUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONSULTAS\PesquisaUsuarioUsu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONSULTAS\PesquisaUsuarioUsu.Designer.cs">
+      <DependentUpon>PesquisaUsuarioUsu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONSULTAS\ProfessorConsultaCodigo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONSULTAS\ProfessorConsultaCodigo.Designer.cs">
+      <DependentUpon>ProfessorConsultaCodigo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONSULTAS\ProfessorConsultaNome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONSULTAS\ProfessorConsultaNome.Designer.cs">
+      <DependentUpon>ProfessorConsultaNome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONSULTAS\ProfessorConsultaPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONSULTAS\ProfessorConsultaPeriodo.Designer.cs">
+      <DependentUpon>ProfessorConsultaPeriodo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelaMenu.Designer.cs">
+      <DependentUpon>TelaMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CADASTROS\CadastroPlano.resx">
+      <DependentUpon>CadastroPlano.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONSULTAS\ConsultaPlanos.resx">
+      <DependentUpon>ConsultaPlanos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONSULTAS\AlunoConsultaProfessor.resx">
+      <DependentUpon>AlunoConsultaProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONSULTAS\AlunoConsultaMatricula.resx">
+      <DependentUpon>AlunoConsultaMatricula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONSULTAS\AlunoConsultaNome.resx">
+      <DependentUpon>AlunoConsultaNome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONSULTAS\AlunoConsultaPeriodo.resx">
+      <DependentUpon>AlunoConsultaPeriodo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONSULTAS\AlunoConsultaRG.resx">
+      <DependentUpon>AlunoConsultaRG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTROS\CadastroAluno.resx">
+      <DependentUpon>CadastroAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTROS\CadastroProfessor.resx">
+      <DependentUpon>CadastroProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CADASTROS\CadastroUsuario.resx">
+      <DependentUpon>CadastroUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrequenciaAluno.resx">
+      <DependentUpon>FrequenciaAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrequenciaTotalAno.resx">
+      <DependentUpon>FrequenciaTotalAno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrequenciaTotalDia.resx">
+      <DependentUpon>FrequenciaTotalDia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrequenciaTotalMes.resx">
+      <DependentUpon>FrequenciaTotalMes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imprimir.resx">
+      <DependentUpon>Imprimir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImprimirCarteira.resx">
+      <DependentUpon>ImprimirCarteira.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONSULTAS\PesquisaUsuario.resx">
+      <DependentUpon>PesquisaUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONSULTAS\PesquisaUsuarioUsu.resx">
+      <DependentUpon>PesquisaUsuarioUsu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONSULTAS\ProfessorConsultaCodigo.resx">
+      <DependentUpon>ProfessorConsultaCodigo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONSULTAS\ProfessorConsultaNome.resx">
+      <DependentUpon>ProfessorConsultaNome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONSULTAS\ProfessorConsultaPeriodo.resx">
+      <DependentUpon>ProfessorConsultaPeriodo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaMenu.resx">
+      <DependentUpon>TelaMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{9D2E88F5-F080-4A92-958F-3E42E6223DED}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{DB87A7D9-4FF9-4AFE-A8A1-EF383702E3D4}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MODELO\MODELO.csproj">
+      <Project>{2C45D741-8814-4D58-8091-E692EEAE005E}</Project>
+      <Name>MODELO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadastro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadastro %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refreshing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh-button %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuban.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7961.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\azul.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\verified-text-paper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close-cross-circular-interface-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\family-of-heterosexual-couple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-magnifier-interface-symbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business_application_addmale_useradd_insert_add_user_client_2312.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-business-card-symbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open-trash-can.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bootloader_users_person_people_6080.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kdmmaleuser_user_person_man_5919.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\msn_user_23326.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\analytics_pc_mac_user_icon-icons.com_76290.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15577b62a782ff0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15577b62a782ff0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15577b62a782ff0 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15577b62a782ff0 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit-door-symbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit-door-sign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\team.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil-and-filled-paper-sheet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print-black-printer-tool-symbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key-silhouette-security-tool-interface-symbol-of-password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
